@@ -9,7 +9,7 @@ layout: homepage
 I am a Ph.D. canditate in Economics at LMU Munich. My research spans economic growth, economic history, and innovation. 
 In my dissertation, I investigate how human capital, idea growth, and idea diffusion interacted during Enlightenment and Industrial Revolution to originate Europe's richess.
 
-During the academic year 2021--2022, I am visiting Northwestern University at invitation of Joel Mokyr. Previously, I have visited Brown University January to May 2020 at invitation of Oded Galor.
+During the academic year 2021--2022, I am visiting Northwestern University at the invitation of Joel Mokyr. Previously, I have visited Brown University January to May 2020 at the invitation of Oded Galor.
 
 I am available for interviews during the virtual EEA meeting and the virtual ASSA/AEA meeting. 
 
