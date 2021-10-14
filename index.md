@@ -9,7 +9,7 @@ layout: homepage
 I am a Ph.D. canditate in Economics at LMU Munich. My research spans economic growth, economic history, and innovation. 
 In my dissertation, I investigate how human capital, idea growth, and idea diffusion interacted during Enlightenment and Industrial Revolution to originate Europe's richess.
 
-During the academic year 2021--2022, I am visiting Northwestern University at invitation of Joel Mokyr. Previously, I have visited Brown University January to May 2020 at invitation of Oded Galor.
+During the academic year 2021--2022, I am visiting Northwestern University at the invitation of Joel Mokyr. Previously, I have visited Brown University January to May 2020 at the invitation of Oded Galor.
 
 I am available for interviews during the virtual EEA meeting and the virtual ASSA/AEA meeting. 
 
@@ -44,15 +44,7 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
   &ensp;   with Carl Hallmann and Emre Enez Yavuz (Northwestern)
 
 
-  &ensp; *Abstract:* This paper provides the first evidence on idea growth and international idea diffusion at the industry and technology level during the Industrial Revolution.
-Our empirical approach focuses on the perspective of one country to obtain quantitatively comparable measures of idea growth and incoming idea diffusion. 
-Using patent data from France 1791 to 1855, we distinguish invention and imitation patents. In the particular historical context, imitation mostly reflects the diffusion of British ideas to France.
-Our main result is a large and highly significant positive correlation of idea growth and idea diffusion across industry and technology.
-We argue that the result informs a debate among two views of idea growth and international idea diffusion which have conflicting predictions on the sign of this correlation. 
-The simultaneity view, on the one hand, predicts a positive correlation because of knowledge spillovers or because invention and imitation are complementary activities. 
-The leader--follower view, on the other hand, predicts a negative correlation because of variation of advantages in invention across sectors, for example due to directed technical change. 
-While the evidence on the correlation confirms the simultaneity view and rejects the leader--follower view, we show that the leader--follower view is nevertheless right about its additional prediction of specialization on invention or imitation across sectors. 
-Based on the revealed relative technological lead of industries, we document a clear pattern of specialization and validate with historical evidence that it reflects absolute advantages in invention.
+  &ensp; *Abstract:* This paper provides the first evidence on idea growth and international idea diffusion at the industry and technology level during the Industrial Revolution. Our empirical approach focuses on the perspective of one country to obtain quantitatively comparable measures of idea growth and incoming idea diffusion. Using patent data from France 1791 to 1855, we distinguish invention and imitation patents. In the particular historical context, imitation mostly reflects the diffusion of British ideas to France. Our main result is a large and highly significant positive correlation of idea growth and idea diffusion across industry and technology. We argue that the result informs a debate among two views of idea growth and international idea diffusion which have conflicting predictions on the sign of this correlation. The simultaneity view, on the one hand, predicts a positive correlation because of knowledge spillovers or because invention and imitation are complementary activities. The leader--follower view, on the other hand, predicts a negative correlation because of variation of advantages in invention across sectors, for example due to directed technical change. While the evidence on the correlation confirms the simultaneity view and rejects the leader--follower view, we show that the leader--follower view is nevertheless right about its additional prediction of specialization on invention or imitation across sectors. Based on the revealed relative technological lead of industries, we document a clear pattern of specialization and validate with historical evidence that it reflects absolute advantages in invention.
 
 
 
