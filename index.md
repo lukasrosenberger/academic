@@ -13,7 +13,7 @@ During the academic year 2021--2022, I am visiting Northwestern University at th
 
 I am available for interviews during the virtual EEA meeting and the virtual ASSA/AEA meeting. 
 
-Bio: [curriculum vitae](link)
+Bio: [[curriculum vitae]('files/CV_Lukas_Rosenberger.pdf')]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
