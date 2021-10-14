@@ -42,7 +42,6 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 ## Job Market Paper
 
 **Invention and Imitation during the Industrial Revolution** [*draft forthcoming*]
-
   <br>
   &ensp;   with Carl Hallmann and Emre Enez Yavuz (Northwestern)
 
