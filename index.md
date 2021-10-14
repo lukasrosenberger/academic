@@ -35,11 +35,14 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 - **Primary:** &ensp;   economic growth, economic history
 - **Secondary:** &ensp;  innovation, comparative development, political economy
 - **Topics:** &ensp;  technological progress, human capital, industrial revolution
+
+[[PDF](link)]  
 -->
 
 ## Job Market Paper
 
-**Invention and Imitation during the Industrial Revolution** [[PDF](link)] 
+**Invention and Imitation during the Industrial Revolution** [*draft forthcoming*]
+
   <br>
   &ensp;   with Carl Hallmann and Emre Enez Yavuz (Northwestern)
 
