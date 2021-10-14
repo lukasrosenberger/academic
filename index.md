@@ -27,7 +27,7 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 - [Davide Cantoni](http://davidecantoni.net/index.html) (LMU Munich)
 - [Joel Mokyr](https://sites.northwestern.edu/jmokyr/) (Northwestern)
 - [Uwe Sunde](https://sites.google.com/view/uwesunde/home?authuser=0) (LMU Munich)
-- [Fabian Waldinger](https://www.fabianwaldinger.com/) (LMU Munich)
+<!-- - [Fabian Waldinger](https://www.fabianwaldinger.com/) (LMU Munich) -->
 
 <!---
 ## Research Interests
@@ -44,7 +44,15 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
   &ensp;   with Carl Hallmann and Emre Enez Yavuz (Northwestern)
 
 
-  &ensp; *Abstract:* What explains invention during the Industrial Revolution? In this paper, we test two leading but competing hypotheses from the economic history literature. We argue that the hypotheses are based on opposing economic forces which result in opposite predictions on the correlation of invention and imitation across industries in a two country setting---a specialization force leading to a negative correlation of invention and imitation, and a simultaneity force leading to a positive correlation. Using a data set on patents in France from 1791 to 1855 in which we can distinguish invention and imitation, we first document robust evidence on a pattern of comparative advantage in invention across French industries relative to British industries, consistent with the presence of the specialization force. We then present robust evidence for a strongly positive correlation of invention and imitation, supporting the conclusion that the simultaneity force is dominating as explanation of invention.
+  &ensp; *Abstract:* This paper provides the first evidence on idea growth and international idea diffusion at the industry and technology level during the Industrial Revolution.
+Our empirical approach focuses on the perspective of one country to obtain quantitatively comparable measures of idea growth and incoming idea diffusion. 
+Using patent data from France 1791 to 1855, we distinguish invention and imitation patents. In the particular historical context, imitation mostly reflects the diffusion of British ideas to France.
+Our main result is a large and highly significant positive correlation of idea growth and idea diffusion across industry and technology.
+We argue that the result informs a debate among two views of idea growth and international idea diffusion which have conflicting predictions on the sign of this correlation. 
+The simultaneity view, on the one hand, predicts a positive correlation because of knowledge spillovers or because invention and imitation are complementary activities. 
+The leader--follower view, on the other hand, predicts a negative correlation because of variation of advantages in invention across sectors, for example due to directed technical change. 
+While the evidence on the correlation confirms the simultaneity view and rejects the leader--follower view, we show that the leader--follower view is nevertheless right about its additional prediction of specialization on invention or imitation across sectors. 
+Based on the revealed relative technological lead of industries, we document a clear pattern of specialization and validate with historical evidence that it reflects absolute advantages in invention.
 
 
 
