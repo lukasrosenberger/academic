@@ -24,9 +24,10 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 ## References
 
+- [Uwe Sunde](https://sites.google.com/view/uwesunde/home?authuser=0) (LMU Munich)
 - [Davide Cantoni](http://davidecantoni.net/index.html) (LMU Munich)
 - [Joel Mokyr](https://sites.northwestern.edu/jmokyr/) (Northwestern)
-- [Uwe Sunde](https://sites.google.com/view/uwesunde/home?authuser=0) (LMU Munich)
+
 <!-- - [Fabian Waldinger](https://www.fabianwaldinger.com/) (LMU Munich) -->
 
 <!---
@@ -58,7 +59,7 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
   <details>   
   <summary>Abstract</summary>  
 
-  This paper advances and empirically establishes the hypothesis that economic growth depends on the interaction between two notions of productive knowledge: human capital---knowledge embodied in people---and non-rival ideas---codified knowledge. The analysis uses a unique historical setting in France in the Enlightenment to disentangle variation in both dimensions of productive knowledge and to identify their interaction. The empirical strategy exploits spatial variation in education which was predetermined for historical reasons and time variation of Enlightenment which made codified knowledge widely available. Using novel data on establishment and curriculum of all public secondary schools in France from 1500 to 1800, the analysis first establishes that the geography of schools and a scientific curriculum was determined by historical factors going back to late-Roman period, as well as religious competition during the sixteenth century. Then, the analysis shows that cities with scientific education exhibited a greater demand for codified productive knowledge during the Enlightenment, as measured by subscriptions to the newly available Encyclopedia. Reversely, the analysis also shows that the availability of codified knowledge increased the demand for scientific education, as reflected in enrolment in scientific subjects at schools of the revolutionary period. Finally, the analysis documents that education was instrumental for the adoption of codified knowledge as proxied by subsequent economic growth and innovation and patenting activity. The evidence is consistent with the view that human capital acquired in schools provided students with a "scientific literacy" necessary to utilize the ideas which spread during industrial enlightenment.  
+  This paper advances and empirically establishes the hypothesis that economic growth depends on the interaction between two notions of productive knowledge: knowledge embodied in people (human capital) and codified knowledge (non-rival ideas). The analysis uses a unique historical setting in France in the Enlightenment to disentangle variation in both dimensions of productive knowledge and to identify their interaction. The empirical strategy exploits spatial variation in education which was predetermined for historical reasons and time variation of Enlightenment which made codified knowledge widely available. Using novel data on establishment and curriculum of all public secondary schools in France from 1500 to 1800, the analysis first establishes that the geography of schools and a scientific curriculum was determined by historical factors going back to late-Roman period, as well as religious competition during the sixteenth century. Then, the analysis shows that cities with scientific education exhibited a greater demand for codified productive knowledge during the Enlightenment, as measured by subscriptions to the newly available Encyclopedia. Reversely, the analysis also shows that the availability of codified knowledge increased the demand for scientific education, as reflected in enrolment in scientific subjects at schools of the revolutionary period. Finally, the analysis documents that education was instrumental for the adoption of codified knowledge as proxied by subsequent economic growth and innovation and patenting activity. The evidence is consistent with the view that human capital acquired in schools provided students with a "scientific literacy" necessary to utilize the ideas which spread during industrial enlightenment.  
   <br> 
   &nbsp;
   </details>  
@@ -68,7 +69,12 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
   <details>   
   <summary>Abstract</summary>  
 
-  tba
+  Did math and science education contribute to invention during early stages of Industrialization? 
+This paper uses a quasi-natural experiment in France to estimate the causal effect of gaining or loosing access to higher secondary school education in math and science on local patenting as measure for invention ca 1800 to 1850. 
+The experiment exploits plausibly exogenous variation in geography of public secondary schools and their curriculum before the French Revolution, during which schools were closed and endowments confiscated. Ten years later during Napoleon's reign, schools and the mathematical--scientific curriculum were re-instated, yet differently allocated to regions and towns.
+While aggregate school enrollment stagnated between 1789 and 1840, there was considerable heterogeneity across regions, with enrollment dropping by up to 90\% or increasing up to 150\% compared to pre-revolution levels. 
+Regional correlations confirm a strong education--invention gradient for the time period after Napoleon: Towns with high-quality math and science education had substantially higher patenting after 1820/1830 than averages towns, whereas town without math and science education had in fact less invention patenting . 
+The town-level identification strategy will identify the causal effect of gaining or loosing education by conditioning on the presence or absence of education after Napoleon, which is potentially endogenous, and by instrumenting education as of 1789 based on plausibly exogenous historical determinants.
   <br> 
   &nbsp;
   </details>  
