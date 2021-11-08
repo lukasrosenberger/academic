@@ -6,10 +6,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. canditate in Economics at LMU Munich. My research spans economic growth, economic history, and innovation. 
-In my dissertation, I investigate how human capital, idea growth, and idea diffusion interacted during Enlightenment and Industrial Revolution to originate Europe's richess.
+I am a Ph.D. candidate in Economics at LMU Munich. My research spans economic growth, economic history, and innovation. 
+In my dissertation, I investigate how human capital, idea growth, and idea diffusion interacted during Enlightenment and Industrial Revolution to originate Europe's riches.
 
-During the academic year 2021--2022, I am visiting Northwestern University at the invitation of Joel Mokyr. Previously, I have visited Brown University January to May 2020 at the invitation of Oded Galor.
+During the academic year 2021--2022, I am visiting Northwestern University at the invitation of Joel Mokyr. Previously, I have visited Brown University from January to May 2020 (invited by Oded Galor).
 
 I am available for interviews during the virtual EEA meeting and the virtual ASSA/AEA meeting. 
 
@@ -18,7 +18,7 @@ Bio: [[curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
 <!--
-In my dissertation, I tackle the question "Why isn't the whole world developed?" from the perspective of Europe: How did Europe became developed in the first place? In context of France in the Enlightenment and Industrial Revolution, I establish novel facts which inform leading growth theories and big debates in economic history. 
+In my dissertation, I tackle the question "Why isn't the whole world developed?" from the perspective of Europe: How did Europe become developed in the first place? In the context of France in the Enlightenment and Industrial Revolution, I establish novel facts which inform leading growth theories and big debates in economic history. 
 -->
 
 
@@ -44,11 +44,14 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 **Invention and Imitation during the Industrial Revolution** [*draft forthcoming*]
   <br>
-  &ensp;   with Carl Hallmann and Emre Enez Yavuz (Northwestern)
+  &ensp;   with [Carl Hallmann](https://economics.northwestern.edu/people/graduate/index.html#H) and [Emre E. Yavuz](https://economics.northwestern.edu/people/graduate/index.html#Y) (Northwestern)
   <details>   
   <summary>Abstract</summary>  
 
-  This paper provides the first evidence on idea growth and international idea diffusion at the industry and technology level during the Industrial Revolution. Our empirical approach focuses on the perspective of one country to obtain quantitatively comparable measures of idea growth and incoming idea diffusion. Using patent data from France 1791 to 1855, we distinguish invention and imitation patents. In the particular historical context, imitation mostly reflects the diffusion of British ideas to France. Our main result is a large and highly significant positive correlation of idea growth and idea diffusion across industry and technology. We argue that the result informs a debate among two views of idea growth and international idea diffusion which have conflicting predictions on the sign of this correlation. The simultaneity view, on the one hand, predicts a positive correlation because of knowledge spillovers or because invention and imitation are complementary activities. The leader--follower view, on the other hand, predicts a negative correlation because of variation of advantages in invention across sectors, for example due to directed technical change. While the evidence on the correlation confirms the simultaneity view and rejects the leader--follower view, we show that the leader--follower view is nevertheless right about its additional prediction of specialization on invention or imitation across sectors. Based on the revealed relative technological lead of industries, we document a clear pattern of specialization and validate with historical evidence that it reflects absolute advantages in invention.
+This paper provides the first empirical cross-country evidence on inventive activity during the Industrial Revolution.
+Using French patent data from 1791 to 1855, we can compare invention rates in Britain and France across sectors due to idiosyncrasies in the historic patent law. 
+Our key result is a significant, strong, and robust positive association of invention rates in Britain and France. Furthermore, we quantify technological leadership in invention at the sectoral level. 
+The evidence informs a debate on whether invention during the Industrial Revolution mainly was a British or a European affair, which has implications for theories of growth and innovation. 
   <br> 
   &nbsp;
   </details>  
@@ -62,7 +65,7 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
   <details>   
   <summary>Abstract</summary>  
 
-  This paper advances and empirically establishes the hypothesis that economic growth depends on the interaction between two notions of productive knowledge: knowledge embodied in people (human capital) and codified knowledge (non-rival ideas). The analysis uses a unique historical setting in France in the Enlightenment to disentangle variation in both dimensions of productive knowledge and to identify their interaction. The empirical strategy exploits spatial variation in education which was predetermined for historical reasons and time variation of Enlightenment which made codified knowledge widely available. Using novel data on establishment and curriculum of all public secondary schools in France from 1500 to 1800, the analysis first establishes that the geography of schools and a scientific curriculum was determined by historical factors going back to late-Roman period, as well as religious competition during the sixteenth century. Then, the analysis shows that cities with scientific education exhibited a greater demand for codified productive knowledge during the Enlightenment, as measured by subscriptions to the newly available Encyclopedia. Reversely, the analysis also shows that the availability of codified knowledge increased the demand for scientific education, as reflected in enrolment in scientific subjects at schools of the revolutionary period. Finally, the analysis documents that education was instrumental for the adoption of codified knowledge as proxied by subsequent economic growth and innovation and patenting activity. The evidence is consistent with the view that human capital acquired in schools provided students with a "scientific literacy" necessary to utilize the ideas which spread during industrial enlightenment.  
+  This paper advances and empirically establishes the hypothesis that economic growth depends on the interaction between two dimensions of productive knowledge: knowledge embodied in people (human capital) and codified knowledge (non-rival ideas). France in the Enlightenment provides a unique historical setting that allows disentangling variation in both dimensions of productive knowledge to identify their interaction. The empirical strategy exploits spatial variation in education, which was predetermined for historical reasons, and time variation of Enlightenment, which made codified knowledge widely available. Using novel data on the establishment and curriculum of all public secondary schools in France from 1500 to 1800, we first trace the geography of schools and a scientific curriculum to historical factors going back to the late-Roman period and religious competition during the sixteenth century. Then, we show that cities with scientific education exhibited a greater demand for codified knowledge during the Enlightenment, as measured by subscriptions to the newly available Encyclopedia. Reversely, we also show that the availability of codified knowledge increased the demand for scientific education, as reflected in enrolment in scientific subjects at schools of the revolutionary period. Finally, we document that education was instrumental for adopting codified knowledge as proxied by subsequent economic growth and innovation patents. The evidence is consistent with the view that human capital acquired in schools provided students with a "scientific literacy" necessary to utilize the ideas which spread during the industrial Enlightenment.  
   <br> 
   &nbsp;
   </details>  
@@ -71,19 +74,20 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 **Napoleon’s schools: Education and Invention during the Industrial Revolution in France**
   <details>   
   <summary>Abstract</summary>  
+Was math and science education relevant for invention during the first Industrial Revolution? 
+This paper uses a quasi-natural experiment in France to estimate the causal effect of higher secondary school education in math and science on invention between 1800 and 1850. 
+In the French Revolution, all public secondary schools in France were closed down and their endowments expropriated.
+During Napoleon's reign, schools and curriculum were re-instated but with a different geographic allocation.
+On the regional level, I find a positive education--invention gradient. Regions with high-quality math and science education had substantially higher patenting than regions with little math and science, while regions without math and science had less patenting overall. 
+On the town level, I can estimate the causal effect of gaining or losing math and science education by combining two elements: (i) Instrumenting education as of 1789 based on plausibly exogenous historical determinants and (ii) conditioning on the presence or absence of this education after Napoleon to control for the endogeneity of current education. 
 
-  Did math and science education contribute to invention during early stages of Industrialization? 
-This paper uses a quasi-natural experiment in France to estimate the causal effect of gaining or loosing access to higher secondary school education in math and science on local patenting as measure for invention ca 1800 to 1850. 
-The experiment exploits plausibly exogenous variation in geography of public secondary schools and their curriculum before the French Revolution, during which schools were closed and endowments confiscated. Ten years later during Napoleon's reign, schools and the mathematical--scientific curriculum were re-instated, yet differently allocated to regions and towns.
-While aggregate school enrollment stagnated between 1789 and 1840, there was considerable heterogeneity across regions, with enrollment dropping by up to 90\% or increasing up to 150\% compared to pre-revolution levels. 
-Regional correlations confirm a strong education--invention gradient for the time period after Napoleon: Towns with high-quality math and science education had substantially higher patenting after 1820/1830 than averages towns, whereas town without math and science education had in fact less invention patenting . 
-The town-level identification strategy will identify the causal effect of gaining or loosing education by conditioning on the presence or absence of education after Napoleon, which is potentially endogenous, and by instrumenting education as of 1789 based on plausibly exogenous historical determinants.
+ and
   <br> 
   &nbsp;
   </details>  
 
 
-**Catching-up, forging ahead, or falling behind? Technological gaps during the Industrial Revolution**
+**Catching up, forging ahead, or falling behind? Technological gaps during the Industrial Revolution**
   <br>
   &ensp; with Carl Hallmann and Emre Enez Yavuz (Northwestern).  
 
