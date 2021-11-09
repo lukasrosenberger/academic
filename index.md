@@ -13,7 +13,7 @@ During the academic year 2021--2022, I am visiting Northwestern University (invi
 
 I am available for interviews during the virtual EEA meeting and the virtual ASSA/AEA meeting. 
 
-Bio: [curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV_Lukas_Rosenberger.pdf)
+Bio: [[curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV_Lukas_Rosenberger.pdf)]
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
@@ -42,7 +42,7 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 ## Job Market Paper
 
-**Invention and Imitation during the Industrial Revolution** [Paper](https://lukasrosenberger.github.io/academic/download/JMP_Lukas_Rosenberger.pdf) 
+**Invention and Imitation during the Industrial Revolution** [[Paper](https://lukasrosenberger.github.io/academic/download/JMP_Lukas_Rosenberger.pdf)] 
   <br>
   &ensp;   with [Carl Hallmann](https://economics.northwestern.edu/people/graduate/index.html#H) and [Emre E. Yavuz](https://economics.northwestern.edu/people/graduate/index.html#Y) (Northwestern)
   <details>   
