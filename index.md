@@ -42,7 +42,6 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 ## Job Market Paper
 
-<<<<<<< HEAD
 **Invention and Technological Leadership during the Industrial Revolution** [[Paper](https://lukasrosenberger.github.io/academic/download/JMP_Lukas_Rosenberger.pdf)] 
   <br>
   &ensp;   with [Carl Hallmann](https://economics.northwestern.edu/people/graduate/index.html#H) and [Emre E. Yavuz](https://economics.northwestern.edu/people/graduate/index.html#Y) (Northwestern)
