@@ -44,9 +44,6 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 <<<<<<< HEAD
 **Invention and Technological Leadership during the Industrial Revolution** [[Paper](https://lukasrosenberger.github.io/academic/download/JMP_Lukas_Rosenberger.pdf)] 
-=======
-**Invention and Imitation during the Industrial Revolution** [[Paper](https://lukasrosenberger.github.io/academic/download/JMP_Lukas_Rosenberger.pdf)] 
->>>>>>> af1fab37d3855d75409072c3b66fa2c0eb48def5
   <br>
   &ensp;   with [Carl Hallmann](https://economics.northwestern.edu/people/graduate/index.html#H) and [Emre E. Yavuz](https://economics.northwestern.edu/people/graduate/index.html#Y) (Northwestern)
   <details>   
