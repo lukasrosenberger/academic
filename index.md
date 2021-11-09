@@ -7,13 +7,13 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. candidate in Economics at LMU Munich. My research spans economic growth, economic history, and innovation. 
-In my dissertation, I investigate the creation and diffusion of technological knowledge during Enlightenment and Industrial Revolution as sources of Europe's riches.
+In my dissertation, I research human capital and technological progress during Enlightenment and Industrial Revolution.
 
-During the academic year 2021--2022, I am visiting Northwestern University at the invitation of Joel Mokyr. Previously, I have visited Brown University from January to May 2020 (invited by Oded Galor).
+During the academic year 2021--2022, I am visiting Northwestern University (invited by Joel Mokyr). Previously, I have visited Brown University from January to May 2020 (invited by Oded Galor).
 
 I am available for interviews during the virtual EEA meeting and the virtual ASSA/AEA meeting. 
 
-Bio: [[curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV_Lukas_Rosenberger.pdf)]
+Bio: [curriculum vitae](https://lukasrosenberger.github.io/academic/download/CV_Lukas_Rosenberger.pdf)
 
 Contact: [lukas.rosenberger(a)econ.lmu.de](mailto:lukas.rosenberger@econ.lmu.de)
 
@@ -42,7 +42,7 @@ In my dissertation, I tackle the question "Why isn't the whole world developed?"
 
 ## Job Market Paper
 
-**Invention and Imitation during the Industrial Revolution** [*draft forthcoming*]
+**Invention and Imitation during the Industrial Revolution** [Paper](https://lukasrosenberger.github.io/academic/download/JMP_Lukas_Rosenberger.pdf) 
   <br>
   &ensp;   with [Carl Hallmann](https://economics.northwestern.edu/people/graduate/index.html#H) and [Emre E. Yavuz](https://economics.northwestern.edu/people/graduate/index.html#Y) (Northwestern)
   <details>   
@@ -65,7 +65,7 @@ The evidence informs a debate on whether invention during the Industrial Revolut
   <details>   
   <summary>Abstract</summary>  
 
-  This paper advances and empirically establishes the hypothesis that economic growth depends on the interaction between two dimensions of productive knowledge: knowledge embodied in people (human capital) and codified knowledge (non-rival ideas). France in the Enlightenment provides a unique historical setting that allows disentangling variation in both dimensions of productive knowledge to identify their interaction. The empirical strategy exploits spatial variation in education, which was predetermined for historical reasons, and time variation of Enlightenment, which made codified knowledge widely available. Using novel data on the establishment and curriculum of all public secondary schools in France from 1500 to 1800, we first trace the geography of schools and a scientific curriculum to historical factors going back to the late-Roman period and religious competition during the sixteenth century. Then, we show that cities with scientific education exhibited a greater demand for codified knowledge during the Enlightenment, as measured by subscriptions to the newly available Encyclopedia. Reversely, we also show that the availability of codified knowledge increased the demand for scientific education, as reflected in enrolment in scientific subjects at schools of the revolutionary period. Finally, we document that education was instrumental for adopting codified knowledge as proxied by subsequent economic growth and innovation patents. The evidence is consistent with the view that human capital acquired in schools provided students with a "scientific literacy" necessary to utilize the ideas which spread during the industrial Enlightenment.  
+  This paper advances and empirically establishes the hypothesis that economic growth depends on the interaction between two dimensions of productive knowledge: knowledge embodied in people (human capital) and codified knowledge (non-rival ideas). France in the Enlightenment provides a unique historical setting that allows disentangling variation in both dimensions of productive knowledge to identify their interaction. We collected a novel data on the establishment and curriculum of all public secondary schools in France from 1500 to 1800. The empirical strategy exploits spatial variation in education, which was predetermined for historical reasons, and time variation of Enlightenment, which made codified knowledge widely available. We provide four key results. First, we trace the geography of schools and a scientific curriculum to historical factors going back to the late-Roman period and religious competition during the sixteenth century. Second, we show that cities with scientific education exhibited a greater demand for codified knowledge during the Enlightenment, as measured by subscriptions to the newly available Encyclopedia. Third, we show that the availability of codified knowledge increased the demand for scientific education, as reflected in enrolment in scientific subjects at schools of the revolutionary period. Forth, we document that education was instrumental for adopting codified knowledge as proxied by subsequent economic growth and innovation patents. The evidence is consistent with the view that human capital acquired in schools provided students with a "scientific literacy" necessary to utilize the ideas which spread during the industrial Enlightenment.  
   <br> 
   &nbsp;
   </details>  
