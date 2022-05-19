@@ -61,7 +61,10 @@ The evidence informs a debate about whether the acceleration of technological pr
 
 **Knowledge, Education, and Economic Growth: Evidence from the Enlightenment in France**
   <br>
-  &ensp; with Uwe Sunde (LMU Munich). &ensp; *Draft forthcoming* 
+  &ensp; with Uwe Sunde (LMU Munich). &ensp; 
+
+<!--
+  *Draft forthcoming* 
   <details>   
   <summary>Abstract</summary>  
 
@@ -69,11 +72,13 @@ The evidence informs a debate about whether the acceleration of technological pr
   <br> 
   &nbsp;
   </details>  
-
+-->
 
 **Napoleon’s schools: Education and Invention during the Industrial Revolution in France**
   <details>   
   <summary>Abstract</summary>  
+
+<!-- 
 Was math and science education relevant for invention during the first Industrial Revolution? 
 This paper uses a quasi-natural experiment in France to estimate the causal effect of higher secondary school education in math and science on invention between 1800 and 1850. 
 In the French Revolution, all public secondary schools in France were closed down and their endowments expropriated.
@@ -83,10 +88,11 @@ On the town level, I can estimate the causal effect of gaining or losing math an
 
  and
   <br> 
-  &nbsp;
+  &nbsp; 
+-->
   </details>  
 
-
+<!--
 **Catching up, forging ahead, or falling behind? Technological gaps during the Industrial Revolution**
   <br>
   &ensp; with Carl Hallmann and Emre Enez Yavuz (Northwestern).  
@@ -100,6 +106,8 @@ On the town level, I can estimate the causal effect of gaining or losing math an
 
   <p>&nbsp;</p>
   <p>&nbsp;</p>
+
+--->
 
 <!--
 
